@@ -6,7 +6,7 @@ DetailValuePeriodJan 2019 – Aug 2022Total Revenue$45,134Unique Customers913Mar
 
 Dashboard
 
-📸 Add your dashboard screenshot here: ![Dashboard](images/coffee-dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 The dashboard supports filtering by roast type, package size, loyalty card status, and date range — all charts update simultaneously based on active slicer selections.
 
